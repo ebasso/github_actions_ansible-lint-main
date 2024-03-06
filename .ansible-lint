@@ -5,4 +5,5 @@ exclude_paths:
   - .github/
   - hosts
   - README.md
+  - LICENSE
   - .ansible-lint
